@@ -1,2 +1,2 @@
-# cole of scan monk
+# clone of scan monk
 practice to learn fontend
